@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animations>
+<sequence id = "boss_idle" frameCount = "14" speed = "150" width = "128" height = "128">
+        <frame textureID = "boss_idle1"/>
+        <frame textureID = "boss_idle2"/>
+        <frame textureID = "boss_idle3"/>
+        <frame textureID = "boss_idle4"/>
+        <frame textureID = "boss_idle5"/>
+        <frame textureID = "boss_idle6"/>
+        <frame textureID = "boss_idle7"/>
+        <frame textureID = "boss_idle8"/>
+        <frame textureID = "boss_idle9"/>
+        <frame textureID = "boss_idle10"/>
+        <frame textureID = "boss_idle11"/>
+        <frame textureID = "boss_idle12"/>
+        <frame textureID = "boss_idle13"/>
+        <frame textureID = "boss_idle14"/>
+</sequence>
+
+</animations>

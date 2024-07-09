@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<textures>
+    <texture id="player_run" source="../assets/Character/Run.png"/>
+    <texture id="player_idle" source="../assets/Character/idle.png"/>
+    <texture id="player_jump" source="../assets/Character/Jump.png"/>
+    <texture id="player_fall" source="../assets/character/Fall.png"/>
+    <texture id="player_hurt" source="../assets/character/Hurt.png"/>
+
+    <texture id="dog1_idle" source="../assets/animals/Dog1/idle.png"/>
+    <texture id="dog1_fall" source="../assets/animals/Dog1/idle.png"/>
+
+    <texture id="dog2_idle" source="../assets/animals/Dog2/idle.png"/>
+    <texture id="dog2_fall" source="../assets/animals/Dog2/idle.png"/>
+
+    <texture id="cat1_idle" source="../assets/animals/Cat1/idle.png"/>
+    <texture id="cat1_fall" source="../assets/animals/Cat1/idle.png"/>
+
+    <texture id="cat2_idle" source="../assets/animals/Cat2/idle.png"/>
+    <texture id="cat2_fall" source="../assets/animals/Cat2/idle.png"/>
+
+    <texture id="bird1_idle" source="../assets/animals/Bird1/idle.png"/>
+    <texture id="bird1_fall" source="../assets/animals/Bird1/idle.png"/>
+
+    <texture id="background1" source= "../assets/maps/sussy.jpg"/>
+    <texture id="background2" source= "../assets/maps/bg.jpg"/>
+    <texture id="background3" source= "../assets/maps/characterResting.jpg"/>
+
+    <texture id="enemy_walk" source="../assets/enemy/Walk.png"/>
+    <texture id="enemy_fall" source="../assets/enemy/idle.png"/>
+
+    <texture id="boss_idle" source = "../assets/213/Idle.png"/>
+
+
+</textures>
