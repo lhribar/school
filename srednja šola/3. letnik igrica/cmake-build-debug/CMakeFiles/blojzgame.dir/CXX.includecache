@@ -1,0 +1,1870 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL.h
+SDL_main.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_main.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+SDL_assert.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_assert.h
+SDL_atomic.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_atomic.h
+SDL_audio.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_audio.h
+SDL_clipboard.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_clipboard.h
+SDL_cpuinfo.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_cpuinfo.h
+SDL_endian.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_endian.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_error.h
+SDL_events.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_events.h
+SDL_filesystem.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_filesystem.h
+SDL_gamecontroller.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_gamecontroller.h
+SDL_haptic.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_haptic.h
+SDL_hidapi.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_hidapi.h
+SDL_hints.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_hints.h
+SDL_joystick.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_joystick.h
+SDL_loadso.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_loadso.h
+SDL_log.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_log.h
+SDL_messagebox.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_messagebox.h
+SDL_metal.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_metal.h
+SDL_mutex.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_mutex.h
+SDL_power.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_power.h
+SDL_render.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_render.h
+SDL_rwops.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_rwops.h
+SDL_sensor.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_sensor.h
+SDL_shape.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_shape.h
+SDL_system.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_system.h
+SDL_thread.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_thread.h
+SDL_timer.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_timer.h
+SDL_version.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_version.h
+SDL_video.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_video.h
+SDL_locale.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_locale.h
+SDL_misc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_misc.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL.h
+SDL_main.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_main.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+SDL_assert.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_assert.h
+SDL_atomic.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_atomic.h
+SDL_audio.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_audio.h
+SDL_clipboard.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_clipboard.h
+SDL_cpuinfo.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_cpuinfo.h
+SDL_endian.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_endian.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_error.h
+SDL_events.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_events.h
+SDL_filesystem.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_filesystem.h
+SDL_gamecontroller.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_gamecontroller.h
+SDL_haptic.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_haptic.h
+SDL_hidapi.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_hidapi.h
+SDL_hints.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_hints.h
+SDL_joystick.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_joystick.h
+SDL_loadso.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_loadso.h
+SDL_log.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_log.h
+SDL_messagebox.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_messagebox.h
+SDL_metal.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_metal.h
+SDL_mutex.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_mutex.h
+SDL_power.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_power.h
+SDL_render.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_render.h
+SDL_rwops.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_rwops.h
+SDL_sensor.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_sensor.h
+SDL_shape.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_shape.h
+SDL_system.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_system.h
+SDL_thread.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_thread.h
+SDL_timer.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_timer.h
+SDL_version.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_version.h
+SDL_video.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_video.h
+SDL_locale.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_locale.h
+SDL_misc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_misc.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_assert.h
+SDL_config.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_config.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+signal.h
+-
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_atomic.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+SDL_platform.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_platform.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+sys/cpuinline.h
+-
+mbarrier.h
+-
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_audio.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_error.h
+SDL_endian.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_endian.h
+SDL_mutex.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_mutex.h
+SDL_thread.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_thread.h
+SDL_rwops.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_rwops.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_blendmode.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_clipboard.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_config.h
+SDL_platform.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_platform.h
+winsdkver.h
+-
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_cpuinfo.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+intrin.h
+-
+intrin.h
+-
+arm_neon.h
+-
+altivec.h
+-
+arm_neon.h
+-
+armintr.h
+-
+arm_neon.h
+-
+arm64intr.h
+-
+arm64_neon.h
+-
+mm3dnow.h
+-
+immintrin.h
+-
+mmintrin.h
+-
+xmmintrin.h
+-
+emmintrin.h
+-
+pmmintrin.h
+-
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_endian.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+intrin.h
+-
+endian.h
+-
+endian.h
+-
+sys/endian.h
+-
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_error.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_events.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_error.h
+SDL_video.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_video.h
+SDL_keyboard.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_keyboard.h
+SDL_mouse.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_mouse.h
+SDL_joystick.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_joystick.h
+SDL_gamecontroller.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_gamecontroller.h
+SDL_quit.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_quit.h
+SDL_gesture.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_gesture.h
+SDL_touch.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_touch.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_filesystem.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_gamecontroller.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_error.h
+SDL_rwops.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_rwops.h
+SDL_sensor.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_sensor.h
+SDL_joystick.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_joystick.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_gesture.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_error.h
+SDL_video.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_video.h
+SDL_touch.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_touch.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_haptic.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_error.h
+SDL_joystick.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_joystick.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_hidapi.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_hints.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_image.h
+SDL.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL.h
+SDL_version.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_version.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_joystick.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_error.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_keyboard.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_error.h
+SDL_keycode.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_keycode.h
+SDL_video.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_video.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_keycode.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+SDL_scancode.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_scancode.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_loadso.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_error.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_locale.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_error.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_log.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_main.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_messagebox.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+SDL_video.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_video.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_metal.h
+SDL_video.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_video.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_misc.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_mouse.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_error.h
+SDL_video.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_video.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_mutex.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_error.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_pixels.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+SDL_endian.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_endian.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_platform.h
+AvailabilityMacros.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/AvailabilityMacros.h
+TargetConditionals.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/TargetConditionals.h
+winapifamily.h
+-
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_power.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_quit.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_error.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_rect.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_error.h
+SDL_pixels.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_pixels.h
+SDL_rwops.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_rwops.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_render.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+SDL_rect.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_rect.h
+SDL_video.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_video.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_rwops.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_error.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_scancode.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_sensor.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_error.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_shape.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+SDL_pixels.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_pixels.h
+SDL_rect.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_rect.h
+SDL_surface.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_surface.h
+SDL_video.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_video.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+SDL_config.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_config.h
+sys/types.h
+-
+stdio.h
+-
+stdlib.h
+-
+stddef.h
+-
+stdarg.h
+-
+stdlib.h
+-
+malloc.h
+-
+stddef.h
+-
+stdarg.h
+-
+memory.h
+-
+string.h
+-
+strings.h
+-
+wchar.h
+-
+inttypes.h
+-
+stdint.h
+-
+ctype.h
+-
+math.h
+-
+float.h
+-
+alloca.h
+-
+malloc.h
+-
+malloc.h
+-
+malloc.h
+-
+stdlib.h
+-
+sal.h
+-
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_surface.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+SDL_pixels.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_pixels.h
+SDL_rect.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_rect.h
+SDL_blendmode.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_blendmode.h
+SDL_rwops.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_rwops.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_system.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+SDL_keyboard.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_keyboard.h
+SDL_render.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_render.h
+SDL_video.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_video.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_thread.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_error.h
+SDL_atomic.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_atomic.h
+SDL_mutex.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_mutex.h
+process.h
+-
+process.h
+-
+stdlib.h
+-
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_timer.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_error.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_touch.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_error.h
+SDL_video.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_video.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_ttf.h
+SDL.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_version.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_video.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_stdinc.h
+SDL_pixels.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_pixels.h
+SDL_rect.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_rect.h
+SDL_surface.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/SDL_surface.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/begin_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL2/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_assert.h
+SDL_config.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_config.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+signal.h
+-
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_atomic.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+SDL_platform.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_platform.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+sys/cpuinline.h
+-
+mbarrier.h
+-
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_audio.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_error.h
+SDL_endian.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_endian.h
+SDL_mutex.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_mutex.h
+SDL_thread.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_thread.h
+SDL_rwops.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_rwops.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_blendmode.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_clipboard.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_config.h
+SDL_platform.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_platform.h
+winsdkver.h
+-
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_cpuinfo.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+intrin.h
+-
+intrin.h
+-
+arm_neon.h
+-
+altivec.h
+-
+arm_neon.h
+-
+armintr.h
+-
+arm_neon.h
+-
+arm64intr.h
+-
+arm64_neon.h
+-
+mm3dnow.h
+-
+immintrin.h
+-
+mmintrin.h
+-
+xmmintrin.h
+-
+emmintrin.h
+-
+pmmintrin.h
+-
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_endian.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+intrin.h
+-
+endian.h
+-
+endian.h
+-
+sys/endian.h
+-
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_error.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_events.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_error.h
+SDL_video.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_video.h
+SDL_keyboard.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_keyboard.h
+SDL_mouse.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_mouse.h
+SDL_joystick.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_joystick.h
+SDL_gamecontroller.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_gamecontroller.h
+SDL_quit.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_quit.h
+SDL_gesture.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_gesture.h
+SDL_touch.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_touch.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_filesystem.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_gamecontroller.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_error.h
+SDL_rwops.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_rwops.h
+SDL_sensor.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_sensor.h
+SDL_joystick.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_joystick.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_gesture.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_error.h
+SDL_video.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_video.h
+SDL_touch.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_touch.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_haptic.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_error.h
+SDL_joystick.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_joystick.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_hidapi.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_hints.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_image.h
+SDL.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL.h
+SDL_version.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_version.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_joystick.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_error.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_keyboard.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_error.h
+SDL_keycode.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_keycode.h
+SDL_video.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_video.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_keycode.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+SDL_scancode.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_scancode.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_loadso.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_error.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_locale.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_error.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_log.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_main.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_messagebox.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+SDL_video.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_video.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_metal.h
+SDL_video.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_video.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_misc.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_mouse.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_error.h
+SDL_video.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_video.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_mutex.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_error.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_pixels.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+SDL_endian.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_endian.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_platform.h
+AvailabilityMacros.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/AvailabilityMacros.h
+TargetConditionals.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/TargetConditionals.h
+winapifamily.h
+-
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_power.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_quit.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_error.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_rect.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_error.h
+SDL_pixels.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_pixels.h
+SDL_rwops.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_rwops.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_render.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+SDL_rect.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_rect.h
+SDL_video.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_video.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_rwops.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_error.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_scancode.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_sensor.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_error.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_shape.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+SDL_pixels.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_pixels.h
+SDL_rect.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_rect.h
+SDL_surface.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_surface.h
+SDL_video.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_video.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+SDL_config.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_config.h
+sys/types.h
+-
+stdio.h
+-
+stdlib.h
+-
+stddef.h
+-
+stdarg.h
+-
+stdlib.h
+-
+malloc.h
+-
+stddef.h
+-
+stdarg.h
+-
+memory.h
+-
+string.h
+-
+strings.h
+-
+wchar.h
+-
+inttypes.h
+-
+stdint.h
+-
+ctype.h
+-
+math.h
+-
+float.h
+-
+alloca.h
+-
+malloc.h
+-
+malloc.h
+-
+malloc.h
+-
+stdlib.h
+-
+sal.h
+-
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_surface.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+SDL_pixels.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_pixels.h
+SDL_rect.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_rect.h
+SDL_blendmode.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_blendmode.h
+SDL_rwops.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_rwops.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_system.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+SDL_keyboard.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_keyboard.h
+SDL_render.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_render.h
+SDL_video.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_video.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_thread.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_error.h
+SDL_atomic.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_atomic.h
+SDL_mutex.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_mutex.h
+process.h
+-
+process.h
+-
+stdlib.h
+-
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_timer.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_error.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_touch.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+SDL_error.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_error.h
+SDL_video.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_video.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_version.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_video.h
+SDL_stdinc.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_stdinc.h
+SDL_pixels.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_pixels.h
+SDL_rect.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_rect.h
+SDL_surface.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/SDL_surface.h
+begin_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+close_code.h
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/begin_code.h
+
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include/close_code.h
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Animations/Animation.h
+SDL.h
+-
+string
+-
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Animations/SpriteAnimation.cpp
+SpriteAnimation.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Animations/SpriteAnimation.h
+../Graphics/TextureManager.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Graphics/TextureManager.h
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Animations/SpriteAnimation.h
+Animation.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Animations/Animation.h
+SDL.h
+-
+string
+-
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Cameras/Camera.cpp
+Camera.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Cameras/Camera.h
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Cameras/Camera.h
+../Physics/Point.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Physics/Point.h
+../Physics/Vector2D.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Physics/Vector2D.h
+../Core/Engine.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Core/Engine.h
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/Animal.cpp
+Animal.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/Animal.h
+../Collision/CollisionHandler.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Collision/CollisionHandler.h
+../Cameras/Camera.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Cameras/Camera.h
+../Graphics/TextureManager.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Graphics/TextureManager.h
+../Objects/GameObject.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Objects/GameObject.h
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/Animal.h
+Character.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/Character.h
+../Animations/SpriteAnimation.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Animations/SpriteAnimation.h
+../Physics/RigidBody.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Physics/RigidBody.h
+../Physics/Collider.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Physics/Collider.h
+../Physics/Vector2D.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Physics/Vector2D.h
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/Character.h
+string
+-
+../Objects/GameObject.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Objects/GameObject.h
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/Enemy.cpp
+Enemy.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/Enemy.h
+../Collision/CollisionHandler.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Collision/CollisionHandler.h
+../Cameras/Camera.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Cameras/Camera.h
+Warrior.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/Warrior.h
+../Graphics/TextureManager.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Graphics/TextureManager.h
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/Enemy.h
+Character.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/Character.h
+../Physics/RigidBody.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Physics/RigidBody.h
+../Animations/SpriteAnimation.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Animations/SpriteAnimation.h
+../Physics/Collider.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Physics/Collider.h
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/Warrior.cpp
+Warrior.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/Warrior.h
+../Graphics/TextureManager.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Graphics/TextureManager.h
+SDL.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/SDL.h
+../Inputs/Input.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Inputs/Input.h
+../Cameras/Camera.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Cameras/Camera.h
+../Collision/CollisionHandler.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Collision/CollisionHandler.h
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/Warrior.h
+Character.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/Character.h
+../Animations/SpriteAnimation.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Animations/SpriteAnimation.h
+../Physics/RigidBody.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Physics/RigidBody.h
+../Physics/Collider.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Physics/Collider.h
+../Physics/Vector2D.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Physics/Vector2D.h
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/boss.cpp
+boss.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/boss.h
+Enemy.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/Enemy.h
+../Collision/CollisionHandler.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Collision/CollisionHandler.h
+../Cameras/Camera.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Cameras/Camera.h
+Warrior.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/Warrior.h
+../Graphics/TextureManager.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Graphics/TextureManager.h
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/boss.h
+Character.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/Character.h
+../Physics/RigidBody.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Physics/RigidBody.h
+../Animations/SpriteAnimation.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Animations/SpriteAnimation.h
+../Physics/Collider.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Physics/Collider.h
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Collision/CollisionHandler.cpp
+CollisionHandler.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Collision/CollisionHandler.h
+../Core/Engine.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Core/Engine.h
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Collision/CollisionHandler.h
+../Maps/TileLayer.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Maps/TileLayer.h
+../Maps/GameMap.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Maps/GameMap.h
+../Core/Engine.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Core/Engine.h
+SDL.h
+-
+vector
+-
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Core/Engine.cpp
+Engine.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Core/Engine.h
+iostream
+-
+SDL.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Core/SDL.h
+../Graphics/TextureManager.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Graphics/TextureManager.h
+SDL_image.h
+-
+../Characters/Warrior.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/Warrior.h
+../Inputs/Input.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Inputs/Input.h
+../Timer/Timer.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Timer/Timer.h
+../Maps/MapParser.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Maps/MapParser.h
+../Cameras/Camera.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Cameras/Camera.h
+../Characters/Enemy.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/Enemy.h
+../Characters/Animal.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/Animal.h
+fstream
+-
+../Collision/CollisionHandler.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Collision/CollisionHandler.h
+../MainMenu/Menu.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/MainMenu/Menu.h
+../MainMenu/Text.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/MainMenu/Text.h
+../MainMenu/GameOver.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/MainMenu/GameOver.h
+vector
+-
+cmath
+-
+cstring
+-
+../Characters/boss.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/boss.h
+../SaveAndLoad/saveAndLoad.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/SaveAndLoad/saveAndLoad.h
+../Replay/Replay.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Replay/Replay.h
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Core/Engine.h
+SDL.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Core/SDL.h
+SDL_image.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Core/SDL_image.h
+../Maps/GameMap.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Maps/GameMap.h
+../Objects/GameObject.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Objects/GameObject.h
+../Characters/Enemy.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/Enemy.h
+../Characters/Animal.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/Animal.h
+../Characters/Warrior.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/Warrior.h
+../Characters/boss.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/boss.h
+fstream
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Core/fstream
+../MainMenu/Text.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/MainMenu/Text.h
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Graphics/TextureManager.cpp
+TextureManager.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Graphics/TextureManager.h
+../Core/Engine.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Core/Engine.h
+../Cameras/Camera.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Cameras/Camera.h
+../Vendor/tinyxml.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Vendor/tinyxml.h
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Graphics/TextureManager.h
+SDL.h
+-
+SDL_image.h
+-
+string
+-
+map
+-
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Inputs/Input.cpp
+Input.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Inputs/Input.h
+../Core/Engine.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Core/Engine.h
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Inputs/Input.h
+SDL.h
+-
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/MainMenu/GameOver.cpp
+GameOver.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/MainMenu/GameOver.h
+../Core/Engine.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Core/Engine.h
+../Inputs/Input.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Inputs/Input.h
+../MainMenu/Menu.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/MainMenu/Menu.h
+../Collision/CollisionHandler.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Collision/CollisionHandler.h
+../Replay/Replay.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Replay/Replay.h
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/MainMenu/GameOver.h
+fstream
+-
+iostream
+-
+SDL2/SDL.h
+-
+Text.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/MainMenu/Text.h
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/MainMenu/Menu.cpp
+Menu.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/MainMenu/Menu.h
+../Core/Engine.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Core/Engine.h
+../Inputs/Input.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Inputs/Input.h
+../Collision/CollisionHandler.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Collision/CollisionHandler.h
+../Timer/Timer.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Timer/Timer.h
+iostream
+-
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/MainMenu/Menu.h
+SDL2/SDL.h
+-
+Text.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/MainMenu/Text.h
+cstring
+-
+iostream
+-
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/MainMenu/Text.cpp
+Text.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/MainMenu/Text.h
+../Core/Engine.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Core/Engine.h
+iostream
+-
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/MainMenu/Text.h
+SDL2/SDL.h
+-
+SDL2/SDL_image.h
+-
+SDL2/SDL_ttf.h
+-
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Maps/GameMap.h
+Layer.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Maps/Layer.h
+vector
+-
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Maps/Layer.h
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Maps/MapParser.cpp
+MapParser.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Maps/MapParser.h
+../Collision/CollisionHandler.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Collision/CollisionHandler.h
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Maps/MapParser.h
+../Vendor/tinyxml.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Vendor/tinyxml.h
+GameMap.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Maps/GameMap.h
+TileLayer.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Maps/TileLayer.h
+map
+-
+string
+-
+SDL.h
+-
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Maps/TileLayer.cpp
+TileLayer.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Maps/TileLayer.h
+../Graphics/TextureManager.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Graphics/TextureManager.h
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Maps/TileLayer.h
+Layer.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Maps/Layer.h
+string
+-
+vector
+-
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Objects/GameObject.h
+../Physics/Transform.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Physics/Transform.h
+../Physics/Point.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Physics/Point.h
+SDL.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Objects/SDL.h
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Physics/Collider.h
+SDL.h
+-
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Physics/Point.h
+string
+-
+SDL_log.h
+-
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Physics/RigidBody.h
+Vector2D.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Physics/Vector2D.h
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Physics/Transform.h
+Vector2D.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Physics/Vector2D.h
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Physics/Vector2D.h
+SDL.h
+-
+string
+-
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Replay/Replay.cpp
+fstream
+-
+Replay.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Replay/Replay.h
+../Maps/MapParser.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Maps/MapParser.h
+../Graphics/TextureManager.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Graphics/TextureManager.h
+../MainMenu/Menu.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/MainMenu/Menu.h
+fstream
+-
+../Core/Engine.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Core/Engine.h
+../MainMenu/Text.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/MainMenu/Text.h
+../Timer/Timer.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Timer/Timer.h
+../Collision/CollisionHandler.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Collision/CollisionHandler.h
+../Cameras/Camera.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Cameras/Camera.h
+../Characters/Warrior.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/Warrior.h
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Replay/Replay.h
+../Characters/Warrior.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/Warrior.h
+SDL_render.h
+-
+../Maps/GameMap.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Maps/GameMap.h
+../MainMenu/Text.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/MainMenu/Text.h
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/SaveAndLoad/saveAndLoad.cpp
+saveAndLoad.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/SaveAndLoad/saveAndLoad.h
+../Timer/Timer.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Timer/Timer.h
+fstream
+-
+../Collision/CollisionHandler.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Collision/CollisionHandler.h
+../Core/Engine.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Core/Engine.h
+../Maps/MapParser.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Maps/MapParser.h
+../MainMenu/Menu.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/MainMenu/Menu.h
+../Characters/Animal.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/Animal.h
+../Objects/GameObject.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Objects/GameObject.h
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/SaveAndLoad/saveAndLoad.h
+vector
+-
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Timer/Timer.cpp
+Timer.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Timer/Timer.h
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Timer/Timer.h
+SDL.h
+-
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Vendor/tinystr.cpp
+tinystr.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Vendor/tinystr.h
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Vendor/tinystr.h
+assert.h
+-
+string.h
+-
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Vendor/tinyxml.cpp
+ctype.h
+-
+sstream
+-
+iostream
+-
+tinyxml.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Vendor/tinyxml.h
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Vendor/tinyxml.h
+ctype.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+assert.h
+-
+string
+-
+iostream
+-
+sstream
+-
+tinystr.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Vendor/tinystr.h
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Vendor/tinyxmlerror.cpp
+tinyxml.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Vendor/tinyxml.h
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Vendor/tinyxmlparser.cpp
+ctype.h
+-
+stddef.h
+-
+tinyxml.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Vendor/tinyxml.h
+windows.h
+-
+
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/main.cpp
+Core/Engine.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Core/Engine.h
+Timer/Timer.h
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Timer/Timer.h
+

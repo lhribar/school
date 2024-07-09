@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="blojzgame"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="blojzgame">
+				<Option output="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/cmake-build-debug/blojzgame.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/cmake-build-debug/Makefile&quot;  VERBOSE=1 blojzgame"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="blojzgame/fast">
+				<Option output="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/cmake-build-debug/blojzgame.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/cmake-build-debug/Makefile&quot;  VERBOSE=1 blojzgame/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Animations/Animation.h">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Animations/SpriteAnimation.cpp">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Animations/SpriteAnimation.h">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Cameras/Camera.cpp">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Cameras/Camera.h">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/Animal.cpp">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/Animal.h">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/Character.h">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/Enemy.cpp">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/Enemy.h">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/Warrior.cpp">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/Warrior.h">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/boss.cpp">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Characters/boss.h">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Collision/CollisionHandler.cpp">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Collision/CollisionHandler.h">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Core/Engine.cpp">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Core/Engine.h">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Graphics/TextureManager.cpp">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Graphics/TextureManager.h">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Inputs/Input.cpp">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Inputs/Input.h">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/MainMenu/GameOver.cpp">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/MainMenu/GameOver.h">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/MainMenu/Menu.cpp">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/MainMenu/Menu.h">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/MainMenu/Text.cpp">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/MainMenu/Text.h">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Maps/GameMap.h">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Maps/Layer.h">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Maps/MapParser.cpp">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Maps/MapParser.h">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Maps/TileLayer.cpp">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Maps/TileLayer.h">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Objects/GameObject.h">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Physics/Collider.h">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Physics/Point.h">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Physics/RigidBody.h">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Physics/Transform.h">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Physics/Vector2D.h">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Replay/Replay.cpp">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Replay/Replay.h">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/SaveAndLoad/saveAndLoad.cpp">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/SaveAndLoad/saveAndLoad.h">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Timer/Timer.cpp">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Timer/Timer.h">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Vendor/tinystr.cpp">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Vendor/tinystr.h">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Vendor/tinyxml.cpp">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Vendor/tinyxml.h">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Vendor/tinyxmlerror.cpp">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/Vendor/tinyxmlparser.cpp">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/src/main.cpp">
+			<Option target="blojzgame"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/cmake/FindSDL2.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/cmake/FindSDL2_ttf.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

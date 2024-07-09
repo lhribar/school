@@ -1,0 +1,3 @@
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/cmake-build-debug/CMakeFiles/blojzgame.dir
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lukah/Desktop/maturitetni_izdelek/3. letnik igrica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
